@@ -695,7 +695,7 @@ input,textarea,select{
 
 }
 .contact .contact-form .form-item .form-control{
-    width: 100%;
+    width: 70%;
     height: 50px;
     border-radius: 25px;
     border: 1px solid #d4d4e3;
