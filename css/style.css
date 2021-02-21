@@ -387,7 +387,7 @@ input,textarea,select{
     -ms-flex: 0 0 40%;
     flex: 0 0 40%;
     max-width: 40%;
-    margin-top: 40px;
+    margin: 10px auto;
 }
 .about .about-content .skills .skill-item{
     -ms-flex: 0 0 100%;
@@ -650,7 +650,7 @@ input,textarea,select{
     flex: 0 0 33.33%;
     max-width: 33.33%;
     text-align: center !important;
-    margin-bottom: 40px;
+    margin: 10px auto;
 
 }
 .contact .contact-info-item .icon{
