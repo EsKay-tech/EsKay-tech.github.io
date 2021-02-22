@@ -8,7 +8,7 @@
 body{
     margin: 0;
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 22px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
@@ -340,7 +340,7 @@ input,textarea,select{
     color: #302e4d;
 }
 .about .about-content .about-text p{
-    font-size: 16px;
+    font-size: 18px;
     line-height: 25px;
     color: #504e70;
     margin: 0;
@@ -504,7 +504,7 @@ input,textarea,select{
     color: #302e4d;
 }
 .about .about-content .timeline .timeline-text{
-    font-size: 16px;
+    font-size: 18px;
     line-height: 25px;
     color: #504e70;
     margin: 0;
@@ -666,7 +666,7 @@ input,textarea,select{
     margin: 15px 0 5px;
 }
 .contact .contact-info-item p{
-    font-size: 16px;
+    font-size: 18px;
     line-height: 25px;
     color: #504e70;
     margin: 0;
