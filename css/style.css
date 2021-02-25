@@ -431,6 +431,15 @@ input,textarea,select{
     top: -40px;
     font-weight: 400;
 }
+/* skill icons */
+
+.skill-icon .skill-group img{
+    align-items: center;
+    height: 10em;
+    width: 10em;
+    margin-left: 2em;
+    padding: 30px 30px;
+}
 .about .about-content .education{
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
