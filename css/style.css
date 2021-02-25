@@ -558,6 +558,7 @@ input,textarea,select{
 .portfolio .portfolio-item-inner .portfolio-img img{
     width: 100%;
     display: block;
+    cursor: pointer;
 }
 .portfolio .portfolio-item .portfolio-info{
     position : absolute;
