@@ -432,7 +432,14 @@ input,textarea,select{
     font-weight: 400;
 }
 /* skill icons */
+.skill-icon .skill-group p{
+    align-items: center;
+    height: 7em;
+    width: 10em;
+    margin-left: 2em;
+    padding: 5px 30px;
 
+}
 .skill-icon .skill-group img{
     align-items: center;
     height: 10em;
