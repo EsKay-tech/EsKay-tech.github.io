@@ -439,6 +439,7 @@ input,textarea,select{
     margin-left: 2em;
     padding: 5px 30px;
     margin-bottom: 23px;
+    text-align: initial;
 }
 .skill-icon .skill-group img{
     align-items: center;
